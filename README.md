@@ -24,7 +24,6 @@ This app is perfect for analysts, managers, or anyone who wants to run SQL queri
 - Python 3.8 or newer  
 - Packages listed in `requirements.txt`
 
-Install dependencies with:
+###Link__File
+LINK : https://sheetq.streamlit.app/
 
-```bash
-pip install -r requirements.txt
